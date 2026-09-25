@@ -1,0 +1,1 @@
+"""Lógica pura do puzzle."""

@@ -1,0 +1,1 @@
+"""Renderização Panda3D."""
